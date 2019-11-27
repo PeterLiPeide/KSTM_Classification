@@ -5,3 +5,8 @@ We have published the first version (Version 1.0) of our python code. The packge
 
 
 The functions require a package for tensor operations. The package is called Tensorly, which is available at http://tensorly.org/stable/index.html.
+
+
+Update
+
+A STM module demo is available for test. New update includes an option for compressing tensors in order to speed up the computation. 
