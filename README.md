@@ -1,5 +1,10 @@
 # KSTM_Classification
 
+
+
+## Please see my repo called "TEC_Tensor_Ensemble_Classifier" for the updated code!!!
+
+
 ## An update is under development, and few mistakes will be corrected. Please wait for the latest update!
 
 
